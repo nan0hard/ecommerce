@@ -1,16 +1,12 @@
-# learnlogin
+# Created Ecommerce app using flutter
 
-A new Flutter project.
+Basic ecommerce app with some modern UI and good features
 
-## Getting Started
+## Here are some snapshots
 
-This project is a starting point for a Flutter application.
+![image-removebg-preview](https://user-images.githubusercontent.com/68745591/210850292-e88a09d3-5531-42e8-8b67-090098cb8bf5.png)![image-removebg-preview (1)](https://user-images.githubusercontent.com/68745591/210850860-50cf2ff2-fe03-4763-a8aa-043ff4104fff.png)
+![image-removebg-preview (2)](https://user-images.githubusercontent.com/68745591/210850991-515e807f-dc11-4bfc-8a39-5d708f9501a7.png)![image-removebg-preview (3)](https://user-images.githubusercontent.com/68745591/210851330-37a68eba-9d56-4278-bb5a-ab05494f03a5.png)
+![image-removebg-preview (6)](https://user-images.githubusercontent.com/68745591/210852175-9d294133-f220-41ef-9a98-52b7c2eedac4.png)
+![image-removebg-preview (5)](https://user-images.githubusercontent.com/68745591/210851689-bdb52d15-4ed2-4410-84b5-fcdca0dbfedc.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
